@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Skinpyrus.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idlel instance 10000" x="30" y="30" width="325" height="452" frameX="0" frameY="-10" frameWidth="352" frameHeight="462"/>
+	<SubTexture name="idlel instance 10001" x="30" y="30" width="325" height="452" frameX="0" frameY="-10" frameWidth="352" frameHeight="462"/>
+	<SubTexture name="idlel instance 10002" x="385" y="30" width="329" height="456" frameX="-2" frameY="-6" frameWidth="352" frameHeight="462"/>
+	<SubTexture name="idlel instance 10003" x="385" y="30" width="329" height="456" frameX="-2" frameY="-6" frameWidth="352" frameHeight="462"/>
+	<SubTexture name="idlel instance 10004" x="744" y="30" width="324" height="461" frameX="-7" frameY="-1" frameWidth="352" frameHeight="462"/>
+	<SubTexture name="idlel instance 10005" x="1098" y="30" width="345" height="461" frameX="-7" frameY="-1" frameWidth="352" frameHeight="462"/>
+	<SubTexture name="idlel instance 10006" x="1473" y="30" width="344" height="462" frameX="-8" frameY="0" frameWidth="352" frameHeight="462"/>
+	<SubTexture name="idlel instance 10007" x="1473" y="30" width="344" height="462" frameX="-8" frameY="0" frameWidth="352" frameHeight="462"/>
+	<SubTexture name="idlel instance 10008" x="30" y="522" width="316" height="462" frameX="-8" frameY="0" frameWidth="352" frameHeight="462"/>
+	<SubTexture name="idlel instance 10009" x="30" y="522" width="316" height="462" frameX="-8" frameY="0" frameWidth="352" frameHeight="462"/>
+	<SubTexture name="idlel instance 10010" x="376" y="522" width="312" height="462" frameX="-8" frameY="0" frameWidth="352" frameHeight="462"/>
+	<SubTexture name="idlel instance 10011" x="376" y="522" width="312" height="462" frameX="-8" frameY="0" frameWidth="352" frameHeight="462"/>
+	<SubTexture name="idlel instance 10012" x="718" y="522" width="315" height="460" frameX="-5" frameY="-2" frameWidth="352" frameHeight="462"/>
+	<SubTexture name="idlel instance 10013" x="1063" y="522" width="321" height="460" frameX="-5" frameY="-2" frameWidth="352" frameHeight="462"/>
+</TextureAtlas>

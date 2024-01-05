@@ -1,0 +1,19 @@
+{
+	"overworld": "Gaster Room",
+	"secretSong": true,
+	"playerName": "",
+	"bgMusic": "PoopshittersMainMenu",
+	"charOffsets": [
+		0,
+		10
+	],
+	"songChar": [
+		"gaster",
+		"freepoop",
+		"disappear",
+		"idle"
+	],
+	"song": "Eggster",
+	"bgVariant": "normal",
+	"level": 1
+}

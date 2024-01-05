@@ -1,0 +1,15 @@
+{
+	"directory": "papyruexe",
+	"defaultZoom": 0.6,
+	"stageUI": "scratch",
+
+	"boyfriend": [-50, 10],
+	"girlfriend": [400, 130],
+	"opponent": [620, 10],
+	"hide_girlfriend": true,
+
+	"camera_boyfriend": [10, 0],
+	"camera_opponent": [0, 0],
+	"camera_girlfriend": [0, 0],
+	"camera_speed": 1
+}

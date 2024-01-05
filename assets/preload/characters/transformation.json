@@ -1,0 +1,68 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "wink",
+			"fps": 24,
+			"name": "wink",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "cameralook",
+			"fps": 24,
+			"name": "cameralook",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "smile",
+			"fps": 24,
+			"name": "smile",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				450,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "hoodieoff",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/transformation",
+	"position": [
+		20,
+		-20
+	],
+	"healthicon": "sexysans",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-153,
+		6
+	],
+	"sing_duration": 6.1,
+	"dmg_output": 69,
+	"scale": 0.9
+}

@@ -1,0 +1,19 @@
+{
+	"overworld": "",
+	"secretSong": false,
+	"playerName": "",
+	"bgMusic": "PoopshittersMainMenu",
+	"charOffsets": [
+		0,
+		5
+	],
+	"songChar": [
+		"papyrus",
+		"freepoop",
+		"stomp",
+		"cape-sunglasses"
+	],
+	"song": "Kidney Stone",
+	"bgVariant": "normal",
+	"level": 1
+}

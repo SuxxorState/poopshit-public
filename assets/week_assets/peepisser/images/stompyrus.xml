@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="stompyrus.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="stomp instance 10000" x="30" y="30" width="289" height="541" frameX="-39" frameY="0" frameWidth="362" frameHeight="541"/>
+	<SubTexture name="stomp instance 10001" x="349" y="30" width="289" height="540" frameX="-39" frameY="0" frameWidth="362" frameHeight="541"/>
+	<SubTexture name="stomp instance 10002" x="668" y="30" width="282" height="540" frameX="-42" frameY="0" frameWidth="362" frameHeight="541"/>
+	<SubTexture name="stomp instance 10003" x="980" y="30" width="282" height="540" frameX="-42" frameY="0" frameWidth="362" frameHeight="541"/>
+	<SubTexture name="stomp instance 10004" x="1292" y="30" width="362" height="524" frameX="0" frameY="-16" frameWidth="362" frameHeight="541"/>
+	<SubTexture name="stomp instance 10005" x="30" y="601" width="362" height="524" frameX="0" frameY="-16" frameWidth="362" frameHeight="541"/>
+	<SubTexture name="stomp instance 10006" x="422" y="601" width="312" height="531" frameX="-27" frameY="-9" frameWidth="362" frameHeight="541"/>
+	<SubTexture name="stomp instance 10007" x="764" y="601" width="312" height="531" frameX="-27" frameY="-9" frameWidth="362" frameHeight="541"/>
+</TextureAtlas>

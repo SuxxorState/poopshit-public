@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sleepshitter.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sdleeeep instance 10000" x="30" y="30" width="270" height="338" frameX="-4" frameY="-8" frameWidth="274" frameHeight="346"/>
+	<SubTexture name="sdleeeep instance 10001" x="330" y="30" width="269" height="339" frameX="-4" frameY="-7" frameWidth="274" frameHeight="346"/>
+	<SubTexture name="sdleeeep instance 10002" x="629" y="30" width="270" height="339" frameX="-3" frameY="-7" frameWidth="274" frameHeight="346"/>
+	<SubTexture name="sdleeeep instance 10003" x="929" y="30" width="269" height="340" frameX="-3" frameY="-6" frameWidth="274" frameHeight="346"/>
+	<SubTexture name="sdleeeep instance 10004" x="1228" y="30" width="268" height="340" frameX="-3" frameY="-6" frameWidth="274" frameHeight="346"/>
+	<SubTexture name="sdleeeep instance 10005" x="1526" y="30" width="268" height="341" frameX="-2" frameY="-5" frameWidth="274" frameHeight="346"/>
+	<SubTexture name="sdleeeep instance 10006" x="30" y="401" width="267" height="342" frameX="-2" frameY="-4" frameWidth="274" frameHeight="346"/>
+	<SubTexture name="sdleeeep instance 10007" x="327" y="401" width="267" height="343" frameX="-1" frameY="-3" frameWidth="274" frameHeight="346"/>
+	<SubTexture name="sdleeeep instance 10008" x="624" y="401" width="266" height="344" frameX="-1" frameY="-2" frameWidth="274" frameHeight="346"/>
+	<SubTexture name="sdleeeep instance 10009" x="920" y="401" width="266" height="344" frameX="-1" frameY="-2" frameWidth="274" frameHeight="346"/>
+	<SubTexture name="sdleeeep instance 10010" x="1216" y="401" width="266" height="345" frameX="-1" frameY="-1" frameWidth="274" frameHeight="346"/>
+	<SubTexture name="sdleeeep instance 10011" x="1512" y="401" width="265" height="345" frameX="-1" frameY="-1" frameWidth="274" frameHeight="346"/>
+	<SubTexture name="sdleeeep instance 10012" x="30" y="776" width="266" height="346" frameX="0" frameY="0" frameWidth="274" frameHeight="346"/>
+	<SubTexture name="sdleeeep instance 10013" x="326" y="776" width="266" height="346" frameX="0" frameY="0" frameWidth="274" frameHeight="346"/>
+	<SubTexture name="sdleeeep instance 10014" x="622" y="776" width="266" height="346" frameX="0" frameY="0" frameWidth="274" frameHeight="346"/>
+	<SubTexture name="sdleeeep instance 10015" x="918" y="776" width="266" height="346" frameX="0" frameY="0" frameWidth="274" frameHeight="346"/>
+	<SubTexture name="sdleeeep instance 10016" x="1214" y="776" width="266" height="346" frameX="0" frameY="0" frameWidth="274" frameHeight="346"/>
+	<SubTexture name="sdleeeep instance 10017" x="1510" y="776" width="266" height="346" frameX="0" frameY="0" frameWidth="274" frameHeight="346"/>
+	<SubTexture name="sdleeeep instance 10018" x="30" y="1152" width="266" height="346" frameX="0" frameY="0" frameWidth="274" frameHeight="346"/>
+	<SubTexture name="sdleeeep instance 10019" x="326" y="1152" width="267" height="346" frameX="0" frameY="0" frameWidth="274" frameHeight="346"/>
+	<SubTexture name="sdleeeep instance 10020" x="623" y="1152" width="267" height="345" frameX="0" frameY="-1" frameWidth="274" frameHeight="346"/>
+	<SubTexture name="sdleeeep instance 10021" x="920" y="1152" width="267" height="345" frameX="0" frameY="-1" frameWidth="274" frameHeight="346"/>
+	<SubTexture name="sdleeeep instance 10022" x="1217" y="1152" width="267" height="344" frameX="-1" frameY="-2" frameWidth="274" frameHeight="346"/>
+	<SubTexture name="sdleeeep instance 10023" x="1514" y="1152" width="268" height="343" frameX="-1" frameY="-3" frameWidth="274" frameHeight="346"/>
+	<SubTexture name="sdleeeep instance 10024" x="30" y="1528" width="268" height="342" frameX="-2" frameY="-4" frameWidth="274" frameHeight="346"/>
+	<SubTexture name="sdleeeep instance 10025" x="328" y="1528" width="269" height="341" frameX="-2" frameY="-5" frameWidth="274" frameHeight="346"/>
+	<SubTexture name="sdleeeep instance 10026" x="627" y="1528" width="269" height="340" frameX="-3" frameY="-6" frameWidth="274" frameHeight="346"/>
+	<SubTexture name="sdleeeep instance 10027" x="926" y="1528" width="270" height="339" frameX="-3" frameY="-7" frameWidth="274" frameHeight="346"/>
+	<SubTexture name="sdleeeep instance 10028" x="30" y="30" width="270" height="338" frameX="-4" frameY="-8" frameWidth="274" frameHeight="346"/>
+</TextureAtlas>

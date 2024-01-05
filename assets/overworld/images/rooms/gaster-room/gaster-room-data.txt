@@ -1,0 +1,7 @@
+spawn:150,208
+objects:L
+loops:false
+worldbounds: 0,0, 320,72 | 0,0, 80,240 | 240,0, 80,240 | 0,157, 140,83 | 180,157, 140,83 | 0,239, 320,1
+music:none
+player:bf
+startingdir:2

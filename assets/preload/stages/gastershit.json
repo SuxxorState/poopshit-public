@@ -1,0 +1,15 @@
+{
+	"directory": "gaster_def_stage",
+	"defaultZoom": 0.69,
+	"stageUI": "gaster",
+
+	"boyfriend": [700, 50],
+	"girlfriend": [370, -150],
+	"opponent": [250, -50],
+	"hide_girlfriend": false,
+
+	"camera_boyfriend": [0, 0],
+	"camera_opponent": [0, 0],
+	"camera_girlfriend": [0, 0],
+	"camera_speed": 1
+}

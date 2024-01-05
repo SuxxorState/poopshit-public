@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="thinkpyrus.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="thinkpyrus instance 10000" x="30" y="30" width="353" height="564" frameX="0" frameY="-10" frameWidth="353" frameHeight="574"/>
+	<SubTexture name="thinkpyrus instance 10001" x="30" y="30" width="353" height="564" frameX="0" frameY="-10" frameWidth="353" frameHeight="574"/>
+	<SubTexture name="thinkpyrus instance 10002" x="413" y="30" width="351" height="565" frameX="0" frameY="-9" frameWidth="353" frameHeight="574"/>
+	<SubTexture name="thinkpyrus instance 10003" x="413" y="30" width="351" height="565" frameX="0" frameY="-9" frameWidth="353" frameHeight="574"/>
+	<SubTexture name="thinkpyrus instance 10004" x="794" y="30" width="348" height="572" frameX="0" frameY="-2" frameWidth="353" frameHeight="574"/>
+	<SubTexture name="thinkpyrus instance 10005" x="794" y="30" width="348" height="572" frameX="0" frameY="-2" frameWidth="353" frameHeight="574"/>
+	<SubTexture name="thinkpyrus instance 10006" x="1172" y="30" width="347" height="574" frameX="0" frameY="0" frameWidth="353" frameHeight="574"/>
+	<SubTexture name="thinkpyrus instance 10007" x="1172" y="30" width="347" height="574" frameX="0" frameY="0" frameWidth="353" frameHeight="574"/>
+	<SubTexture name="thinkpyrus instance 10008" x="1549" y="30" width="347" height="574" frameX="0" frameY="0" frameWidth="353" frameHeight="574"/>
+	<SubTexture name="thinkpyrus instance 10009" x="1549" y="30" width="347" height="574" frameX="0" frameY="0" frameWidth="353" frameHeight="574"/>
+	<SubTexture name="thinkpyrus instance 10010" x="1549" y="30" width="347" height="574" frameX="0" frameY="0" frameWidth="353" frameHeight="574"/>
+	<SubTexture name="thinkpyrus instance 10011" x="1549" y="30" width="347" height="574" frameX="0" frameY="0" frameWidth="353" frameHeight="574"/>
+	<SubTexture name="thinkpyrus instance 10012" x="30" y="634" width="348" height="574" frameX="0" frameY="0" frameWidth="353" frameHeight="574"/>
+	<SubTexture name="thinkpyrus instance 10013" x="30" y="634" width="348" height="574" frameX="0" frameY="0" frameWidth="353" frameHeight="574"/>
+</TextureAtlas>

@@ -1,0 +1,15 @@
+{
+	"directory": "poopshitter",
+	"defaultZoom": 0.7,
+	"stageUI": "",
+
+	"boyfriend": [1000, 220],
+	"girlfriend": [1400, 130],
+	"opponent": [1900, 280],
+	"hide_girlfriend": true,
+
+	"camera_boyfriend": [170, 0],
+	"camera_opponent": [-100, 0],
+	"camera_girlfriend": [0, 0],
+	"camera_speed": 1
+}

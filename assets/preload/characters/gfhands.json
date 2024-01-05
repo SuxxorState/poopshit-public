@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				197,
+				320
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "gfhands up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				195,
+				330
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "gfhands idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				200,
+				330
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "gfhands right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				197,
+				330
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "gfhands left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				191,
+				330
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "gfhands down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gfhands",
+	"position": [
+		-320,
+		-880
+	],
+	"healthicon": "gf",
+	"flip_x": true,
+	"healthbar_colors": [
+		162,
+		0,
+		35
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"dmg_output": 69,
+	"scale": 1
+}

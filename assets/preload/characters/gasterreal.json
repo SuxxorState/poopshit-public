@@ -1,0 +1,60 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "gaster idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "finger",
+			"fps": 12,
+			"name": "gaster fucku",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				9,
+				10
+			],
+			"fps": 12,
+			"anim": "idle-alt",
+			"loop": false,
+			"name": "gaster fucku"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gaster",
+	"position": [
+		-850,
+		-130
+	],
+	"healthicon": "eggsternormal",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		100,
+		100
+	],
+	"sing_duration": 6.1,
+	"dmg_output": 2,
+	"scale": 1
+}

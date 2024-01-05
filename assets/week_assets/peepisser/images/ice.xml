@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ice.png">
+	<SubTexture name="ice idle0000" x="0" y="0" width="322" height="208" frameX="0" frameY="0" frameWidth="322" frameHeight="208" />
+	<SubTexture name="ice idle0001" x="0" y="0" width="322" height="208" frameX="0" frameY="0" frameWidth="322" frameHeight="208" />
+	<SubTexture name="ice idle0002" x="322" y="0" width="322" height="208" frameX="0" frameY="0" frameWidth="322" frameHeight="208" />
+	<SubTexture name="ice idle0003" x="322" y="0" width="322" height="208" frameX="0" frameY="0" frameWidth="322" frameHeight="208" />
+	<SubTexture name="ice idle0004" x="0" y="208" width="322" height="208" frameX="0" frameY="0" frameWidth="322" frameHeight="208" />
+	<SubTexture name="ice idle0005" x="0" y="208" width="322" height="208" frameX="0" frameY="0" frameWidth="322" frameHeight="208" />
+	<SubTexture name="ice idle0006" x="322" y="208" width="322" height="208" frameX="0" frameY="0" frameWidth="322" frameHeight="208" />
+	<SubTexture name="ice idle0007" x="322" y="208" width="322" height="208" frameX="0" frameY="0" frameWidth="322" frameHeight="208" />
+	<SubTexture name="ice idle0008" x="0" y="416" width="322" height="208" frameX="0" frameY="0" frameWidth="322" frameHeight="208" />
+	<SubTexture name="ice idle0009" x="0" y="416" width="322" height="208" frameX="0" frameY="0" frameWidth="322" frameHeight="208" />
+	<SubTexture name="ice idle0010" x="322" y="416" width="322" height="208" frameX="0" frameY="0" frameWidth="322" frameHeight="208" />
+	<SubTexture name="ice idle0011" x="322" y="416" width="322" height="208" frameX="0" frameY="0" frameWidth="322" frameHeight="208" />
+</TextureAtlas>

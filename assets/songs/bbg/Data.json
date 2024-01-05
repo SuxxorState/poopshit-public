@@ -1,0 +1,19 @@
+{
+	"overworld": "",
+	"secretSong": false,
+	"playerName": "",
+	"bgMusic": "PoopshittersMainMenu",
+	"charOffsets": [
+		0,
+		0
+	],
+	"songChar": [
+		"",
+		"freepoop",
+		"idle",
+		"idle"
+	],
+	"song": "BBG",
+	"bgVariant": "normal",
+	"level": 69
+}

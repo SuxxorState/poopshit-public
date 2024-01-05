@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="transformation.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cameralook0000" x="0" y="0" width="339" height="1013"/>
+	<SubTexture name="hoodieoff0000" x="339" y="0" width="848" height="1013"/>
+	<SubTexture name="smile0000" x="1187" y="0" width="339" height="1013"/>
+	<SubTexture name="wink0000" x="1526" y="0" width="339" height="1013"/>
+</TextureAtlas>

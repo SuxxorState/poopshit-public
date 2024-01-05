@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gaster.png">
+<SubTexture name="gaster idle0000" x="0" y="1163" width="219" height="548" frameX="-391" frameY="-262" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gaster idle0001" x="1260" y="583" width="219" height="551" frameX="-391" frameY="-259" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gaster idle0002" x="1485" y="554" width="220" height="552" frameX="-391" frameY="-256" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gaster idle0003" x="1036" y="583" width="224" height="554" frameX="-388" frameY="-253" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gaster idle0004" x="1485" y="0" width="226" height="554" frameX="-387" frameY="-253" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gaster idle0005" x="1485" y="0" width="226" height="554" frameX="-387" frameY="-253" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gaster idle0006" x="1485" y="0" width="226" height="554" frameX="-387" frameY="-253" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gaster fucku0000" x="219" y="1163" width="245" height="548" frameX="-362" frameY="-260" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gaster fucku0001" x="464" y="1163" width="335" height="543" frameX="-277" frameY="-265" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gaster fucku0002" x="799" y="1163" width="297" height="539" frameX="-320" frameY="-269" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gaster fucku0003" x="826" y="583" width="210" height="574" frameX="-391" frameY="-234" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gaster fucku0004" x="0" y="583" width="379" height="580" frameX="-222" frameY="-227" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gaster fucku0005" x="379" y="583" width="447" height="580" frameX="-154" frameY="-227" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gaster fucku0006" x="0" y="0" width="491" height="583" frameX="-110" frameY="-224" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gaster fucku0007" x="491" y="0" width="499" height="583" frameX="-102" frameY="-224" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gaster fucku0008" x="990" y="0" width="495" height="583" frameX="-106" frameY="-224" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gaster fucku0009" x="990" y="0" width="495" height="583" frameX="-106" frameY="-224" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gaster fucku0010" x="990" y="0" width="495" height="583" frameX="-106" frameY="-224" frameWidth="1000" frameHeight="1000" />
+</TextureAtlas>

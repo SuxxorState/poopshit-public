@@ -1,0 +1,19 @@
+{
+	"overworld": "Last Corridor",
+	"secretSong": false,
+	"playerName": "",
+	"bgMusic": "PoopshittersMainMenu",
+	"charOffsets": [
+		0,
+		0
+	],
+	"songChar": [
+		"sans",
+		"freepoop",
+		"laugh",
+		"sleep"
+	],
+	"song": "Constipation",
+	"bgVariant": "normal",
+	"level": 19
+}

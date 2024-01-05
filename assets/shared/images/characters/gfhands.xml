@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gfhands.png">
+<SubTexture name="gfhands idle0000" x="0" y="1556" width="435" height="226" frameX="-618" frameY="-988" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="gfhands idle0001" x="1273" y="601" width="539" height="233" frameX="-553" frameY="-986" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="gfhands idle0002" x="415" y="925" width="490" height="306" frameX="-585" frameY="-907" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="gfhands idle0003" x="385" y="562" width="420" height="349" frameX="-622" frameY="-865" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="gfhands idle0004" x="0" y="925" width="415" height="344" frameX="-624" frameY="-872" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="gfhands idle0005" x="805" y="562" width="411" height="346" frameX="-627" frameY="-872" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="gfhands right0000" x="856" y="1269" width="812" height="257" frameX="-657" frameY="-966" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="gfhands right0001" x="435" y="1556" width="530" height="226" frameX="-649" frameY="-990" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="gfhands right0002" x="1273" y="834" width="532" height="229" frameX="-649" frameY="-989" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="gfhands up0000" x="0" y="0" width="423" height="562" frameX="-637" frameY="-658" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="gfhands up0001" x="0" y="562" width="385" height="363" frameX="-646" frameY="-850" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="gfhands up0002" x="881" y="0" width="392" height="372" frameX="-641" frameY="-842" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="gfhands left0000" x="0" y="1269" width="856" height="287" frameX="-166" frameY="-928" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="gfhands left0001" x="1273" y="0" width="562" height="305" frameX="-462" frameY="-911" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="gfhands left0002" x="1273" y="305" width="560" height="296" frameX="-464" frameY="-920" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="gfhands down0000" x="423" y="0" width="458" height="411" frameX="-610" frameY="-1010" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="gfhands down0001" x="965" y="1556" width="437" height="214" frameX="-611" frameY="-1016" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="gfhands down0002" x="1835" y="0" width="436" height="212" frameX="-612" frameY="-1013" frameWidth="1600" frameHeight="1600" />
+</TextureAtlas>

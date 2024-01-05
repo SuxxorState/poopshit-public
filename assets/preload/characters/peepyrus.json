@@ -1,0 +1,90 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				70,
+				-27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-72,
+				17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-1,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "nye heh heh",
+			"indices": [],
+			"name": "nye heh heh"
+		},
+		{
+			"offsets": [
+				-34,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				38,
+				13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/PeePyrus",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "pisser",
+	"flip_x": false,
+	"healthbar_colors": [
+		197,
+		197,
+		197
+	],
+	"camera_position": [
+		-500,
+		50
+	],
+	"sing_duration": 5.99999999999999,
+	"dmg_output": 4,
+	"scale": 1
+}

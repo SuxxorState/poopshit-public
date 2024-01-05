@@ -1,0 +1,19 @@
+{
+	"overworld": "",
+	"secretSong": true,
+	"playerName": "Sans",
+	"bgMusic": "PoopshittersMainMenu",
+	"charOffsets": [
+		0,
+		0
+	],
+	"songChar": [
+		"",
+		"freepoop",
+		"idle",
+		"idle"
+	],
+	"song": "Down to the Bone",
+	"bgVariant": "normal",
+	"level": -3.75
+}

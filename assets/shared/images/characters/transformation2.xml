@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="transformation2.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="smile10000" x="0" y="0" width="768" height="927"/>
+	<SubTexture name="smile20000" x="768" y="0" width="339" height="1013"/>
+	<SubTexture name="talk10000" x="1107" y="0" width="768" height="927"/>
+	<SubTexture name="talk20000" x="1875" y="0" width="768" height="927"/>
+	<SubTexture name="talk30000" x="2643" y="0" width="768" height="927"/>
+	<SubTexture name="talk40000" x="0" y="1013" width="768" height="927"/>
+	<SubTexture name="talk50000" x="768" y="1013" width="768" height="927"/>
+	<SubTexture name="walk10000" x="1536" y="1013" width="704" height="949"/>
+	<SubTexture name="walk20000" x="2240" y="1013" width="704" height="949"/>
+</TextureAtlas>

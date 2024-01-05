@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="phase3.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="kiss0000" x="0" y="0" width="1302" height="892"/>
+	<SubTexture name="laugh0000" x="1302" y="0" width="1302" height="838"/>
+	<SubTexture name="laugh20000" x="2604" y="0" width="1302" height="838"/>
+	<SubTexture name="overyou_down0000" x="3906" y="0" width="1302" height="843" frameX="-26" frameY="-16" frameWidth="1355" frameHeight="860"/>
+	<SubTexture name="overyou_down0001" x="5208" y="0" width="1302" height="846" frameX="-26" frameY="-14" frameWidth="1355" frameHeight="860"/>
+	<SubTexture name="overyou_down0002" x="6510" y="0" width="1345" height="821" frameX="-5" frameY="-39" frameWidth="1355" frameHeight="860"/>
+	<SubTexture name="overyou_down0003" x="6510" y="0" width="1345" height="821" frameX="-5" frameY="-39" frameWidth="1355" frameHeight="860"/>
+	<SubTexture name="overyou_down0004" x="0" y="892" width="1355" height="815" frameX="0" frameY="-45" frameWidth="1355" frameHeight="860"/>
+	<SubTexture name="overyou_down0005" x="0" y="892" width="1355" height="815" frameX="0" frameY="-45" frameWidth="1355" frameHeight="860"/>
+	<SubTexture name="overyou_down0006" x="1355" y="892" width="1355" height="814" frameX="0" frameY="-45" frameWidth="1355" frameHeight="860"/>
+	<SubTexture name="overyou_down0007" x="2710" y="892" width="1351" height="817" frameX="-2" frameY="-42" frameWidth="1355" frameHeight="860"/>
+	<SubTexture name="overyou_down0008" x="4061" y="892" width="1279" height="859" frameX="-38" frameY="0" frameWidth="1355" frameHeight="860"/>
+	<SubTexture name="overyou_down0009" x="5340" y="892" width="1302" height="820" frameX="-26" frameY="-39" frameWidth="1355" frameHeight="860"/>
+	<SubTexture name="overyou_down0010" x="5340" y="892" width="1302" height="820" frameX="-26" frameY="-39" frameWidth="1355" frameHeight="860"/>
+	<SubTexture name="overyou_down0011" x="5340" y="892" width="1302" height="820" frameX="-26" frameY="-39" frameWidth="1355" frameHeight="860"/>
+	<SubTexture name="overyou_down0012" x="5340" y="892" width="1302" height="820" frameX="-26" frameY="-39" frameWidth="1355" frameHeight="860"/>
+	<SubTexture name="overyou_down0013" x="5340" y="892" width="1302" height="820" frameX="-26" frameY="-39" frameWidth="1355" frameHeight="860"/>
+	<SubTexture name="overyou_down0014" x="5340" y="892" width="1302" height="820" frameX="-26" frameY="-39" frameWidth="1355" frameHeight="860"/>
+	<SubTexture name="overyou_down0015" x="5340" y="892" width="1302" height="820" frameX="-26" frameY="-39" frameWidth="1355" frameHeight="860"/>
+	<SubTexture name="overyou_idle0000" x="6642" y="892" width="1352" height="812" frameX="0" frameY="-26" frameWidth="1391" frameHeight="839"/>
+	<SubTexture name="overyou_idle0001" x="0" y="1751" width="1352" height="813" frameX="0" frameY="-25" frameWidth="1391" frameHeight="839"/>
+	<SubTexture name="overyou_idle0002" x="1352" y="1751" width="1309" height="836" frameX="-43" frameY="-3" frameWidth="1391" frameHeight="839"/>
+	<SubTexture name="overyou_idle0003" x="1352" y="1751" width="1309" height="836" frameX="-43" frameY="-3" frameWidth="1391" frameHeight="839"/>
+	<SubTexture name="overyou_idle0004" x="1302" y="0" width="1302" height="838" frameX="-49" frameY="-1" frameWidth="1302" frameHeight="838"/>
+	<SubTexture name="overyou_idle0005" x="1302" y="0" width="1302" height="838" frameX="-49" frameY="0" frameWidth="1302" frameHeight="838"/>
+	<SubTexture name="overyou_idle0006" x="1302" y="0" width="1302" height="838" frameX="-49" frameY="0" frameWidth="1302" frameHeight="838"/>
+	<SubTexture name="overyou_idle0007" x="1302" y="0" width="1302" height="838" frameX="-49" frameY="0" frameWidth="1302" frameHeight="838"/>
+	<SubTexture name="overyou_idle0008" x="2661" y="1751" width="1342" height="802" frameX="-49" frameY="-36" frameWidth="1391" frameHeight="839"/>
+	<SubTexture name="overyou_idle0009" x="4003" y="1751" width="1341" height="807" frameX="-49" frameY="-32" frameWidth="1391" frameHeight="839"/>
+	<SubTexture name="overyou_idle0010" x="5344" y="1751" width="1308" height="833" frameX="-49" frameY="-5" frameWidth="1391" frameHeight="839"/>
+	<SubTexture name="overyou_idle0011" x="5344" y="1751" width="1308" height="833" frameX="-49" frameY="-5" frameWidth="1391" frameHeight="839"/>
+	<SubTexture name="overyou_idle0012" x="1302" y="0" width="1302" height="838" frameX="-49" frameY="-1" frameWidth="1302" frameHeight="838"/>
+	<SubTexture name="overyou_idle0013" x="1302" y="0" width="1302" height="838" frameX="-49" frameY="0" frameWidth="1302" frameHeight="838"/>
+	<SubTexture name="overyou_idle0014" x="1302" y="0" width="1302" height="838" frameX="-49" frameY="0" frameWidth="1302" frameHeight="838"/>
+	<SubTexture name="overyou_idle0015" x="1302" y="0" width="1302" height="838" frameX="-49" frameY="0" frameWidth="1302" frameHeight="838"/>
+	<SubTexture name="overyou_left0000" x="6652" y="1751" width="1329" height="877" frameX="-15" frameY="-3" frameWidth="1345" frameHeight="881"/>
+	<SubTexture name="overyou_left0001" x="0" y="2628" width="1345" height="881"/>
+	<SubTexture name="overyou_left0002" x="1345" y="2628" width="1310" height="856" frameX="-35" frameY="-25" frameWidth="1345" frameHeight="881"/>
+	<SubTexture name="overyou_left0003" x="1345" y="2628" width="1310" height="856" frameX="-35" frameY="-25" frameWidth="1345" frameHeight="881"/>
+	<SubTexture name="overyou_left0004" x="2655" y="2628" width="1302" height="842" frameX="-42" frameY="-39" frameWidth="1345" frameHeight="881"/>
+	<SubTexture name="overyou_left0005" x="2655" y="2628" width="1302" height="842" frameX="-42" frameY="-39" frameWidth="1345" frameHeight="881"/>
+	<SubTexture name="overyou_left0006" x="3957" y="2628" width="1302" height="837" frameX="-42" frameY="-44" frameWidth="1345" frameHeight="881"/>
+	<SubTexture name="overyou_left0007" x="3957" y="2628" width="1302" height="837" frameX="-42" frameY="-45" frameWidth="1345" frameHeight="881"/>
+	<SubTexture name="overyou_left0008" x="3957" y="2628" width="1302" height="837" frameX="-42" frameY="-45" frameWidth="1345" frameHeight="881"/>
+	<SubTexture name="overyou_left0009" x="3957" y="2628" width="1302" height="837" frameX="-42" frameY="-45" frameWidth="1345" frameHeight="881"/>
+	<SubTexture name="overyou_left0010" x="3957" y="2628" width="1302" height="837" frameX="-42" frameY="-45" frameWidth="1345" frameHeight="881"/>
+	<SubTexture name="overyou_left0011" x="3957" y="2628" width="1302" height="837" frameX="-42" frameY="-45" frameWidth="1345" frameHeight="881"/>
+	<SubTexture name="overyou_left0012" x="3957" y="2628" width="1302" height="837" frameX="-42" frameY="-45" frameWidth="1345" frameHeight="881"/>
+	<SubTexture name="overyou_left0013" x="3957" y="2628" width="1302" height="837" frameX="-42" frameY="-45" frameWidth="1345" frameHeight="881"/>
+	<SubTexture name="overyou_left0014" x="3957" y="2628" width="1302" height="837" frameX="-42" frameY="-45" frameWidth="1345" frameHeight="881"/>
+	<SubTexture name="overyou_left0015" x="3957" y="2628" width="1302" height="837" frameX="-42" frameY="-45" frameWidth="1345" frameHeight="881"/>
+	<SubTexture name="overyou_right0000" x="5259" y="2628" width="1355" height="864" frameX="0" frameY="-19" frameWidth="1360" frameHeight="884"/>
+	<SubTexture name="overyou_right0001" x="6614" y="2628" width="1360" height="849" frameX="0" frameY="-35" frameWidth="1360" frameHeight="884"/>
+	<SubTexture name="overyou_right0002" x="0" y="3509" width="1316" height="884" frameX="0" frameY="0" frameWidth="1360" frameHeight="884"/>
+	<SubTexture name="overyou_right0003" x="0" y="3509" width="1316" height="884" frameX="0" frameY="0" frameWidth="1360" frameHeight="884"/>
+	<SubTexture name="overyou_right0004" x="1316" y="3509" width="1304" height="855" frameX="0" frameY="-29" frameWidth="1360" frameHeight="884"/>
+	<SubTexture name="overyou_right0005" x="1316" y="3509" width="1304" height="855" frameX="0" frameY="-29" frameWidth="1360" frameHeight="884"/>
+	<SubTexture name="overyou_right0006" x="2620" y="3509" width="1302" height="838" frameX="-1" frameY="-46" frameWidth="1360" frameHeight="884"/>
+	<SubTexture name="overyou_right0007" x="3922" y="3509" width="1302" height="835" frameX="0" frameY="-48" frameWidth="1360" frameHeight="884"/>
+	<SubTexture name="overyou_right0008" x="3922" y="3509" width="1302" height="835" frameX="0" frameY="-48" frameWidth="1360" frameHeight="884"/>
+	<SubTexture name="overyou_right0009" x="3922" y="3509" width="1302" height="835" frameX="0" frameY="-48" frameWidth="1360" frameHeight="884"/>
+	<SubTexture name="overyou_right0010" x="3922" y="3509" width="1302" height="835" frameX="0" frameY="-48" frameWidth="1360" frameHeight="884"/>
+	<SubTexture name="overyou_right0011" x="3922" y="3509" width="1302" height="835" frameX="0" frameY="-48" frameWidth="1360" frameHeight="884"/>
+	<SubTexture name="overyou_right0012" x="3922" y="3509" width="1302" height="835" frameX="0" frameY="-48" frameWidth="1360" frameHeight="884"/>
+	<SubTexture name="overyou_right0013" x="3922" y="3509" width="1302" height="835" frameX="0" frameY="-48" frameWidth="1360" frameHeight="884"/>
+	<SubTexture name="overyou_right0014" x="3922" y="3509" width="1302" height="835" frameX="0" frameY="-48" frameWidth="1360" frameHeight="884"/>
+	<SubTexture name="overyou_right0015" x="3922" y="3509" width="1302" height="835" frameX="0" frameY="-48" frameWidth="1360" frameHeight="884"/>
+	<SubTexture name="overyou_up0000" x="5224" y="3509" width="1281" height="919" frameX="-11" frameY="0" frameWidth="1303" frameHeight="919"/>
+	<SubTexture name="overyou_up0001" x="6505" y="3509" width="1302" height="905" frameX="0" frameY="-14" frameWidth="1303" frameHeight="919"/>
+	<SubTexture name="overyou_up0002" x="0" y="4428" width="1297" height="912" frameX="-3" frameY="-6" frameWidth="1303" frameHeight="919"/>
+	<SubTexture name="overyou_up0003" x="1297" y="4428" width="1297" height="889" frameX="-3" frameY="-29" frameWidth="1303" frameHeight="919"/>
+	<SubTexture name="overyou_up0004" x="2594" y="4428" width="1301" height="852" frameX="-1" frameY="-66" frameWidth="1303" frameHeight="919"/>
+	<SubTexture name="overyou_up0005" x="2594" y="4428" width="1301" height="852" frameX="-1" frameY="-66" frameWidth="1303" frameHeight="919"/>
+	<SubTexture name="overyou_up0006" x="3895" y="4428" width="1302" height="850" frameX="-1" frameY="-68" frameWidth="1303" frameHeight="919"/>
+	<SubTexture name="overyou_up0007" x="5197" y="4428" width="1302" height="851" frameX="0" frameY="-67" frameWidth="1303" frameHeight="919"/>
+	<SubTexture name="overyou_up0008" x="5197" y="4428" width="1302" height="851" frameX="0" frameY="-67" frameWidth="1303" frameHeight="919"/>
+	<SubTexture name="overyou_up0009" x="5197" y="4428" width="1302" height="851" frameX="0" frameY="-67" frameWidth="1303" frameHeight="919"/>
+	<SubTexture name="overyou_up0010" x="5197" y="4428" width="1302" height="851" frameX="0" frameY="-67" frameWidth="1303" frameHeight="919"/>
+	<SubTexture name="overyou_up0011" x="5197" y="4428" width="1302" height="851" frameX="0" frameY="-67" frameWidth="1303" frameHeight="919"/>
+	<SubTexture name="overyou_up0012" x="5197" y="4428" width="1302" height="851" frameX="0" frameY="-67" frameWidth="1303" frameHeight="919"/>
+	<SubTexture name="overyou_up0013" x="5197" y="4428" width="1302" height="851" frameX="0" frameY="-67" frameWidth="1303" frameHeight="919"/>
+	<SubTexture name="overyou_up0014" x="5197" y="4428" width="1302" height="851" frameX="0" frameY="-67" frameWidth="1303" frameHeight="919"/>
+	<SubTexture name="overyou_up0015" x="5197" y="4428" width="1302" height="851" frameX="0" frameY="-67" frameWidth="1303" frameHeight="919"/>
+	<SubTexture name="smileLMAO0000" x="6499" y="4428" width="1302" height="892"/>
+</TextureAtlas>

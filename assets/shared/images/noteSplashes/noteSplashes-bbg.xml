@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="noteSplashes-bbg.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="baby splash blue 10000" x="30" y="30" width="328" height="184" pivotX="159" pivotY="136.05"/>
+	<SubTexture name="baby splash blue 10001" x="388" y="30" width="328" height="184"/>
+	<SubTexture name="baby splash blue 10002" x="30" y="244" width="328" height="184"/>
+	<SubTexture name="baby splash blue 10003" x="388" y="244" width="328" height="184"/>
+
+	<SubTexture name="baby splash green 10000" x="30" y="30" width="328" height="184" pivotX="159" pivotY="136.05"/>
+	<SubTexture name="baby splash green 10001" x="388" y="30" width="328" height="184"/>
+	<SubTexture name="baby splash green 10002" x="30" y="244" width="328" height="184"/>
+	<SubTexture name="baby splash green 10003" x="388" y="244" width="328" height="184"/>
+
+	<SubTexture name="baby splash purple 10000" x="30" y="30" width="328" height="184" pivotX="159" pivotY="136.05"/>
+	<SubTexture name="baby splash purple 10001" x="388" y="30" width="328" height="184"/>
+	<SubTexture name="baby splash purple 10002" x="30" y="244" width="328" height="184"/>
+	<SubTexture name="baby splash purple 10003" x="388" y="244" width="328" height="184"/>
+
+	<SubTexture name="baby splash red 10000" x="30" y="30" width="328" height="184" pivotX="159" pivotY="136.05"/>
+	<SubTexture name="baby splash red 10001" x="388" y="30" width="328" height="184"/>
+	<SubTexture name="baby splash red 10002" x="30" y="244" width="328" height="184"/>
+	<SubTexture name="baby splash red 10003" x="388" y="244" width="328" height="184"/>
+</TextureAtlas>

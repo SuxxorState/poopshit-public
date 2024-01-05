@@ -1,0 +1,7 @@
+spawn:42,168
+objects:L
+loops:false
+worldbounds: 0,0, 168,46 | 0,0, 6,199 | 0,161, 34,38 | 74,161, 94,38 | 162,0, 6,199 | 12,51, 49,16 | 0,198, 168,1 | 128,51, 33,43
+music:TooFarStart
+player:sans-exe
+startingdir:2

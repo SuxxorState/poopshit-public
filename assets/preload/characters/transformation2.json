@@ -1,0 +1,57 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 7,
+			"anim": "idle",
+			"indices": [],
+			"name": "talk"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 1,
+			"anim": "smile",
+			"indices": [],
+			"name": "smile"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				1,
+				0
+			],
+			"anim": "walk",
+			"fps": 3,
+			"name": "walk",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/transformation2",
+	"position": [
+		-250,
+		50
+	],
+	"healthicon": "sexy",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-116,
+		-65
+	],
+	"sing_duration": 6.1,
+	"dmg_output": 69,
+	"scale": 1
+}

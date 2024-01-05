@@ -1,0 +1,106 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				250,
+				80
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "danceLeft",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"name": "sexysans idle"
+		},
+		{
+			"offsets": [
+				250,
+				80
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "danceRight",
+			"indices": [
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "sexysans idle"
+		},
+		{
+			"offsets": [
+				270,
+				97
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sexysans up"
+		},
+		{
+			"offsets": [
+				251,
+				81
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sexysans left"
+		},
+		{
+			"offsets": [
+				244,
+				73
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sexysans down"
+		},
+		{
+			"offsets": [
+				263,
+				70
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sexysans right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sexysans",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "sexysans",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-430,
+		-10
+	],
+	"sing_duration": 4,
+	"dmg_output": 69,
+	"scale": 1
+}

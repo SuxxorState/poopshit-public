@@ -1,0 +1,19 @@
+{
+	"overworld": "Scary Skeleton House",
+	"secretSong": true,
+	"playerName": "Sans",
+	"bgMusic": "PapyrusEXEFreeplay",
+	"charOffsets": [
+		0,
+		5
+	],
+	"songChar": [
+		"papyrus-exe",
+		"freepoop",
+		"laugh-down",
+		"normal-down"
+	],
+	"song": "Too Far",
+	"bgVariant": "evil",
+	"level": 666
+}
